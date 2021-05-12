@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/amanEdu/static/css/main.fb6377f6.chunk.css",
+    "main.js": "/amanEdu/static/js/main.508ea822.chunk.js",
+    "main.js.map": "/amanEdu/static/js/main.508ea822.chunk.js.map",
+    "runtime-main.js": "/amanEdu/static/js/runtime-main.becd6fda.js",
+    "runtime-main.js.map": "/amanEdu/static/js/runtime-main.becd6fda.js.map",
+    "static/css/2.800be05e.chunk.css": "/amanEdu/static/css/2.800be05e.chunk.css",
+    "static/js/2.fd9921a8.chunk.js": "/amanEdu/static/js/2.fd9921a8.chunk.js",
+    "static/js/2.fd9921a8.chunk.js.map": "/amanEdu/static/js/2.fd9921a8.chunk.js.map",
+    "static/js/3.36bc60ea.chunk.js": "/amanEdu/static/js/3.36bc60ea.chunk.js",
+    "static/js/3.36bc60ea.chunk.js.map": "/amanEdu/static/js/3.36bc60ea.chunk.js.map",
+    "index.html": "/amanEdu/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/amanEdu/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.fb6377f6.chunk.css.map": "/amanEdu/static/css/main.fb6377f6.chunk.css.map",
+    "static/js/2.fd9921a8.chunk.js.LICENSE.txt": "/amanEdu/static/js/2.fd9921a8.chunk.js.LICENSE.txt",
+    "static/media/about.060b9e97.png": "/amanEdu/static/media/about.060b9e97.png",
+    "static/media/banner.131c8056.jpg": "/amanEdu/static/media/banner.131c8056.jpg",
+    "static/media/card1.a716233d.jpg": "/amanEdu/static/media/card1.a716233d.jpg",
+    "static/media/card2.18ba786f.jpg": "/amanEdu/static/media/card2.18ba786f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.becd6fda.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.fd9921a8.chunk.js",
+    "static/css/main.fb6377f6.chunk.css",
+    "static/js/main.508ea822.chunk.js"
+  ]
+}
